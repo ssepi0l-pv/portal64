@@ -68,7 +68,7 @@ language_translations = {
     'french': 'Français',
     'italian': 'Italiano',
     'polish': 'Język polski',
-    'latam': 'Español americana',
+    'latam': 'Español latino',
     'hungarian': 'Magyar nyelv',
     'dutch': 'Nederlands',
     'norwegian': 'Norsk',
